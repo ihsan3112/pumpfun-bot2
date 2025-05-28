@@ -1,2 +1,1 @@
-solders==0.11.1
-requests
+py-solc-x==1.1.1
