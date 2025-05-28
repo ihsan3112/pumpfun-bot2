@@ -1,1 +1,1 @@
-py-solc-x==1.1.1
+solders
